@@ -1,4 +1,10 @@
-# 1. Introduce an accounts service
+---
+title: "1. Introduce an accounts service"
+date: 2020-06-15T20:21:00+01:00
+geekdocRepo: https://github.com/owncloud/ocis
+geekdocEditPath: edit/master/docs/ocis/adr
+geekdocFilePath: 0001-introduce-accounts-service.md
+---
 
 * Status: superseded by [ADR-0003](0003-external-user-management.md) <!-- optional -->
 * Deciders: @butonic, @felixboehm, @micbar, @pmaier1 <!-- optional -->

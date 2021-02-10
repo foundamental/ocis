@@ -1,4 +1,10 @@
-# 3. Use external User Management
+---
+title: "3. Use external User Management"
+date: 2020-12-09T20:21:00+01:00
+geekdocRepo: https://github.com/owncloud/ocis
+geekdocEditPath: edit/master/docs/ocis/adr
+geekdocFilePath: 0003-external-user-management.md
+---
 
 * Status: accepted <!-- optional -->
 * Deciders: @butonic, @micbar, @dragotin, @hodyroff, @pmaier1 <!-- optional -->
